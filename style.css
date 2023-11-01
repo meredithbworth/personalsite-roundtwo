@@ -30,3 +30,6 @@ h4 {
 p {
     font-family: monospace;
 }
+p:hover {
+    background-color: rgba(186, 116, 10, 0.365);
+}
