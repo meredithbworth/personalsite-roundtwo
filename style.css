@@ -33,3 +33,7 @@ p {
 p:hover {
     background-color: rgba(186, 116, 10, 0.365);
 }
+.currentpage {
+    color: indigo;
+    font-style: italic;
+}
