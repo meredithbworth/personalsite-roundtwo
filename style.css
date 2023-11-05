@@ -37,3 +37,7 @@ p:hover {
     color: indigo;
     font-style: italic;
 }
+input {
+    display: flex;
+    margin: 5
+}
